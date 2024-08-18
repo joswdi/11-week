@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgb(22, 18, 18);
+}
+
+section {
+  border: 2px solid black;
+  margin-left: 220px;
+  margin-right: 220px;
+  display: flex;
+  background-color: rgb(88, 64, 64);
+  margin-top: 60px;
+  height: max-content;
+}
+
+img {
+  width: 300px;
+  height: 400px;
+  object-fit: cover;
+  margin-top: 120px;
+  margin-left: 120px;
+  box-shadow: 10px 5px 5px gray;
+  margin-bottom: 300px;
+}
+
+ul {
+  list-style-type: none;
+  margin-top: 160px;
+  margin-left: 160px;
+}
+
+li {
+  font-family: "Montserrat", sans-serif;
+  color: rgb(184, 184, 184);
+  font-size: 20px;
+}
+li span {
+  font-size: 20px;
+  font-weight: 600;
+  color: aliceblue;
+}
+
+span {
+  font-size: 36px;
+  color: rgba(149, 95, 95, 0);
+}
+
+/*# sourceMappingURL=style.css.map */
